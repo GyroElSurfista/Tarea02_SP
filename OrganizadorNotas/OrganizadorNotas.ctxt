@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=OrganizadorNotas
+comment1.params=cantEst
+comment1.target=OrganizadorNotas(int)
+comment2.params=numEst\ nota
+comment2.target=java.lang.String\ a\u00F1adirNotas(int,\ double)
+comment2.text=\ \r\n\ Para\ a\u00F1adir\ una\ nota\ ingrese\ en\ numero\ del\ estudiante\ (comenzando\ desde\ 1)\ y\ la\ nota\ correspondiente\r\n
+comment3.params=
+comment3.target=double\ promedioNotas()
+comment4.params=
+comment4.target=double\ promedioAprobados()
+comment5.params=
+comment5.target=int\ cantAprobados()
+comment6.params=
+comment6.target=int\ cantReprobados()
+comment7.params=
+comment7.target=double\ mejorNota()
+comment8.params=
+comment8.target=void\ contarAprobados()
+numComments=9
